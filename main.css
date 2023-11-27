@@ -1,0 +1,20 @@
+
+body
+{
+    background-color: aqua;
+ color: brown;
+ display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  
+  
+  
+
+}
+span
+{
+  
+text-decoration: double;
+
+}
